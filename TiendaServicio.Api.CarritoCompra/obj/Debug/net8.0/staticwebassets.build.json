@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6ooXIp3NPAfMRZCZeOrkTddVXVXx33QS8jU0KFM4shE=",
+  "Source": "TiendaServicio.Api.CarritoCompra",
+  "BasePath": "_content/TiendaServicio.Api.CarritoCompra",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

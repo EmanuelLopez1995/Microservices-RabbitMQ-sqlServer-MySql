@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvRd57/KeIU=",
+  "success": true,
+  "projectFilePath": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.Cola\\TiendaServicio.Api.Cola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ema\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Ema\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\Ema\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Ema\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

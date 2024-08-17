@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\aplicacion\\nuevocarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\aplicacion\\nuevocarrito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\rabbitmq\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\rabbitmq\\cola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9867F7-054A-45B3-A1CF-78EAB147489B}|TiendaServicio.Api.Cola\\TiendaServicio.Api.Cola.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.cola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9867F7-054A-45B3-A1CF-78EAB147489B}|TiendaServicio.Api.Cola\\TiendaServicio.Api.Cola.csproj|solutionrelative:tiendaservicio.api.cola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\aplicacion\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\aplicacion\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\modeloremoto\\libroremoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\modeloremoto\\libroremoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\servicioremoto\\librosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\servicioremoto\\librosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\controllers\\autorlibrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\controllers\\autorlibrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\aplicacion\\consultalibrofiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\aplicacion\\consultalibrofiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\aplicacion\\consultalibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\aplicacion\\consultalibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\interfazremota\\ilibrosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\interfazremota\\ilibrosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\controllers\\carritocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\controllers\\carritocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\tiendaservicio.api.carritocompra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\tiendaservicio.api.carritocompra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\modelo\\carritosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\modelo\\carritosesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\persistencia\\contextocarritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\persistencia\\contextocarritocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\modelo\\carritosesiondetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\modelo\\carritosesiondetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\dtos\\carritosesiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\dtos\\carritosesiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\dtos\\carritosesiondetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\dtos\\carritosesiondetalledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\modelo\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\dtos\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\dtos\\librodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\aplicacion\\consultaautorfiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\aplicacion\\consultaautorfiltro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\aplicacion\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\aplicacion\\consultaautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\aplicacion\\consultaautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\persistencia\\contextoautorlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\persistencia\\contextoautorlibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\aplicacion\\nuevoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\aplicacion\\nuevoautor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\autorlibro\\aplicacion\\nuevolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8897A895-B9C9-47C1-9E79-CBABBA384454}|AutorLibro\\TiendaServicio.Api.AutorLibro.csproj|solutionrelative:autorlibro\\aplicacion\\nuevolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|d:\\ema\\curso .net 8 mindhub\\proyecto\\tiendaservicios\\tiendaservicio.api.carritocompra\\migrations\\20240815230909_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4F0AB5-194C-4DA0-B2D7-9741997F7F59}|TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj|solutionrelative:tiendaservicio.api.carritocompra\\migrations\\20240815230909_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibrosService.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\ServicioRemoto\\LibrosService.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\ServicioRemoto\\LibrosService.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\ServicioRemoto\\LibrosService.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\ServicioRemoto\\LibrosService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:10:36.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Aplicacion\\Query.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\Aplicacion\\Query.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Aplicacion\\Query.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\Aplicacion\\Query.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwDYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:42:14.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\appsettings.json",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\appsettings.json",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\appsettings.json",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-15T22:44:59.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibroRemoto.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\ModeloRemoto\\LibroRemoto.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\ModeloRemoto\\LibroRemoto.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\ModeloRemoto\\LibroRemoto.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\ModeloRemoto\\LibroRemoto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:08:17.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsultaLibroFiltro.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\ConsultaLibroFiltro.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Aplicacion\\ConsultaLibroFiltro.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\ConsultaLibroFiltro.cs",
+              "RelativeToolTip": "AutorLibro\\Aplicacion\\ConsultaLibroFiltro.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:43:58.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240815230909_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Migrations\\20240815230909_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\Migrations\\20240815230909_InitialCreate.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Migrations\\20240815230909_InitialCreate.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\Migrations\\20240815230909_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:09:09.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\Program.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Program.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:00:28.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NuevoCarrito.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Aplicacion\\NuevoCarrito.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\Aplicacion\\NuevoCarrito.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Aplicacion\\NuevoCarrito.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\Aplicacion\\NuevoCarrito.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAmwEYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:10:48.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cola.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\RabbitMq\\Cola.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\RabbitMq\\Cola.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\RabbitMq\\Cola.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\RabbitMq\\Cola.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAmwEIAAACwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T12:49:10.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.Cola\\Program.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.Cola\\Program.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.Cola\\Program.cs",
+              "RelativeToolTip": "TiendaServicio.Api.Cola\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T14:13:34.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CarritoCompraController.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Controllers\\CarritoCompraController.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\Controllers\\CarritoCompraController.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Controllers\\CarritoCompraController.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\Controllers\\CarritoCompraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:21:09.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AutorLibroController.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Controllers\\AutorLibroController.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Controllers\\AutorLibroController.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Controllers\\AutorLibroController.cs",
+              "RelativeToolTip": "AutorLibro\\Controllers\\AutorLibroController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAmwFgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:52:00.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Program.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Program.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Program.cs",
+              "RelativeToolTip": "AutorLibro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T21:55:25.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsultaLibro.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\ConsultaLibro.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Aplicacion\\ConsultaLibro.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\ConsultaLibro.cs",
+              "RelativeToolTip": "AutorLibro\\Aplicacion\\ConsultaLibro.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:02:41.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILibrosService.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\InterfazRemota\\ILibrosService.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\InterfazRemota\\ILibrosService.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\InterfazRemota\\ILibrosService.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\InterfazRemota\\ILibrosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T00:09:12.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TiendaServicio.Api.CarritoCompra.csproj",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\TiendaServicio.Api.CarritoCompra.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-15T23:28:06.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CarritoSesionDetalleDTO.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\DTOS\\CarritoSesionDetalleDTO.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\DTOS\\CarritoSesionDetalleDTO.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\DTOS\\CarritoSesionDetalleDTO.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\DTOS\\CarritoSesionDetalleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:01:27.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarritoSesionDTO.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\DTOS\\CarritoSesionDTO.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\DTOS\\CarritoSesionDTO.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\DTOS\\CarritoSesionDTO.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\DTOS\\CarritoSesionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T23:01:12.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContextoCarritoCompra.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Persistencia\\ContextoCarritoCompra.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\Persistencia\\ContextoCarritoCompra.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Persistencia\\ContextoCarritoCompra.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\Persistencia\\ContextoCarritoCompra.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:42:31.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CarritoSesionDetalle.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Modelo\\CarritoSesionDetalle.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\Modelo\\CarritoSesionDetalle.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Modelo\\CarritoSesionDetalle.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\Modelo\\CarritoSesionDetalle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:39:16.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CarritoSesion.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Modelo\\CarritoSesion.cs",
+              "RelativeDocumentMoniker": "TiendaServicio.Api.CarritoCompra\\Modelo\\CarritoSesion.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\TiendaServicio.Api.CarritoCompra\\Modelo\\CarritoSesion.cs",
+              "RelativeToolTip": "TiendaServicio.Api.CarritoCompra\\Modelo\\CarritoSesion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:39:00.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Modelo\\Libro.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Modelo\\Libro.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Modelo\\Libro.cs",
+              "RelativeToolTip": "AutorLibro\\Modelo\\Libro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:41:33.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LibroDTO.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\DTOS\\LibroDTO.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\DTOS\\LibroDTO.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\DTOS\\LibroDTO.cs",
+              "RelativeToolTip": "AutorLibro\\DTOS\\LibroDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:06:59.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConsultaAutorFiltro.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\ConsultaAutorFiltro.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Aplicacion\\ConsultaAutorFiltro.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\ConsultaAutorFiltro.cs",
+              "RelativeToolTip": "AutorLibro\\Aplicacion\\ConsultaAutorFiltro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:26:43.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\appsettings.json",
+              "RelativeDocumentMoniker": "AutorLibro\\appsettings.json",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\appsettings.json",
+              "RelativeToolTip": "AutorLibro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T21:46:35.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Aplicacion\\MappingProfile.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\MappingProfile.cs",
+              "RelativeToolTip": "AutorLibro\\Aplicacion\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T00:38:00.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ConsultaAutor.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\ConsultaAutor.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Aplicacion\\ConsultaAutor.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\ConsultaAutor.cs",
+              "RelativeToolTip": "AutorLibro\\Aplicacion\\ConsultaAutor.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T23:00:15.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ContextoAutorLibro.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Persistencia\\ContextoAutorLibro.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Persistencia\\ContextoAutorLibro.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Persistencia\\ContextoAutorLibro.cs",
+              "RelativeToolTip": "AutorLibro\\Persistencia\\ContextoAutorLibro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:40:22.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "NuevoLibro.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\NuevoLibro.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Aplicacion\\NuevoLibro.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\NuevoLibro.cs",
+              "RelativeToolTip": "AutorLibro\\Aplicacion\\NuevoLibro.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwCsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:38:15.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NuevoAutor.cs",
+              "DocumentMoniker": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\NuevoAutor.cs",
+              "RelativeDocumentMoniker": "AutorLibro\\Aplicacion\\NuevoAutor.cs",
+              "ToolTip": "D:\\Ema\\curso .net 8 mindhub\\Proyecto\\TiendaServicios\\AutorLibro\\Aplicacion\\NuevoAutor.cs",
+              "RelativeToolTip": "AutorLibro\\Aplicacion\\NuevoAutor.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwBsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T22:26:49.583Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
